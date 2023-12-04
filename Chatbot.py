@@ -75,3 +75,5 @@ def main():
             else:
                 st.write("Waiting for the Assistant to process...")
                 time.sleep(5)
+if __name__ == "__main__":
+    main()
